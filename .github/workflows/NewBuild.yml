@@ -1,4 +1,4 @@
-name: Build YouTubePlus (YTLite) IPA
+name: Build YTPlus IPA
 on:
   workflow_dispatch:
     inputs:
